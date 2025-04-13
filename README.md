@@ -42,4 +42,3 @@ This system will:
 ## Getting Started
 - [Installation instructions]
 - [Configuration guide]
-- [API documentation]
