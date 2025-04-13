@@ -1,0 +1,44 @@
+SDR (Alex – Prodsight):
+Hey Mark, good afternoon! This is Alex from Prodsight—am I catching you at a decent time?
+
+Customer (Mark – John Deere):
+Yeah, I’ve got a few minutes. Alex, right? From that product analytics company?
+
+SDR (Alex – Prodsight):
+That’s us! Appreciate you taking the call. I saw your team was evaluating a few platforms, and thought I’d check in to see where things stood and whether we can help.
+
+Customer (Mark – John Deere):
+Yeah, we’re in that research phase. We’ve had some internal pressure lately to tighten how we understand product usage—especially after firmware updates or seasonal spikes. So yeah, we’re looking for a tool that can actually give us more than charts and noise.
+
+SDR (Alex – Prodsight):
+Totally get it. That “data overload with no action” feeling—we hear it a lot. Just for context, Prodsight works with a few other equipment manufacturers—one in the agri-tech space like you, and another in industrial automation. Common theme across all of them: feature usage data was buried or siloed.
+
+Customer (Mark – John Deere):
+That’s exactly our pain. Honestly, here’s what we really need: when we push out a firmware update, I want an automatic readout of which features took a hit in usage—like, did usage drop, did support tickets spike, anything like that. Can you guys do that?
+
+SDR (Alex – Prodsight):
+Yes—we can set up custom event tracking and overlay that with behavioral patterns. So if, say, your tractor telematics dashboard suddenly sees a 20% drop in usage after a version push, we’ll flag that. And we’ll correlate that with voice-of-customer inputs like call logs or chat feedback.
+
+Customer (Mark – John Deere):
+That sounds solid. But I want something more than a marketing promise. Can you get someone from your dev or solutions team to look at our use case and just tell us: “Yeah, we can do this and here’s how it’ll look"?
+
+SDR (Alex – Prodsight):
+Absolutely. In fact, we usually put together a lightweight solution brief after the first call—outlines what we heard, how we’d approach it technically, and examples of dashboards or reports you’d see. I’ll loop in our product solutions engineer after this.
+
+Customer (Mark – John Deere):
+Perfect. Send that over. I also want to see a ballpark proposal—pricing tiers, onboarding timelines, and what support looks like during setup. Our last vendor left us high and dry post-integration.
+
+SDR (Alex – Prodsight):
+Oof—yeah, we’ve inherited a few frustrated clients from ProductXXX and ProductYYY. We’re pretty hands-on—average onboarding takes 7 to 10 days, and we pair you with a success engineer for the first 90. For example, with one of our clients—[Agrimax Solutions]—we identified a critical feature no one was using because the button was too deep in the UI. They made a small tweak and increased engagement 3x.
+
+Customer (Mark – John Deere):
+See, that’s what I want—real insights, not fluff. Alright, let’s do this. Send me that initial brief, include the feature feasibility assessment, and I’ll share it with our digital systems head.
+
+SDR (Alex – Prodsight):
+On it. Expect it in your inbox tomorrow latest. I’ll also include a few anonymized snapshots from similar use cases so you can get a feel.
+
+Customer (Mark – John Deere):
+Sounds good, Alex. I appreciate how direct you’ve been—not everyone is.
+
+SDR (Alex – Prodsight):
+Appreciate that, Mark. I’ll be in touch soon with everything you need. Thanks again for the time—chat soon!
