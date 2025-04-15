@@ -24,8 +24,10 @@ Built with LangGraph for robust workflow orchestration, combining:
 graph TD
     A[Start] --> B[Call Transcript & Preliminary Analysis]
     B --> C[Follow-up Call Feedback]
+    C --> B
     B --> D[LLM Decision Node]
     C --> E[Competitor Analysis]
+    D --> E
     D --> F[Customer ROI Article Generation]
     D --> G[R&D Consultation and Assessment Trigger]
     E --> H[Orchestrator Node]
