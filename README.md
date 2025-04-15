@@ -21,13 +21,21 @@ Built with LangGraph for robust workflow orchestration, combining:
 
 ## System Flow
 ```mermaid
-graph LR
-    A[Sales Call] --> B[STT]
-    B --> C[LangGraph Orchestration]
-    C --> D[Output Actions]
-    C --> E[Analysis Branch]
-    C --> F[Content Branch]
-    C --> G[Notification Branch]
+graph TD
+    A[Start] --> B[Call Transcript & Preliminary Analysis]
+    B --> C[Follow-up Call Feedback]
+    B --> D[LLM Decision Node]
+    C --> E[Competitor Analysis]
+    D --> F[Customer ROI Article Generation]
+    D --> G[R&D Consultation and Assessment Trigger]
+    E --> H[Orchestrator Node]
+    F --> H
+    G --> H
+    H --> I[Customer Reachout Node]
+    H --> J[Sales Summary Snapshot]
+    I --> K[Sales Database Update]
+    J --> K
+    K --> L[End]
 ```
 
 ## Business Value Proposition
