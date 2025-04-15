@@ -26,8 +26,7 @@ graph TD
     B --> C[Follow-up Call Feedback]
     C --> B
     B --> D[LLM Decision Node]
-    C --> E[Competitor Analysis]
-    D --> E
+    D --> E[Competitor Analysis]
     D --> F[Customer ROI Article Generation]
     D --> G[R&D Consultation and Assessment Trigger]
     E --> H[Orchestrator Node]
