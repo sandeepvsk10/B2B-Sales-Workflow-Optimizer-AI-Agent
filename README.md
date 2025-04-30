@@ -2,6 +2,11 @@
 
 An AI-powered B2B sales assistant that analyzes customer calls, extracts key insights, and automates follow-up actions to accelerate deal cycles.
 
+(Following Works in progress)
+- Deployment
+- Modules in python
+
+
 ![image](https://www-cms.pipedriveassets.com/futurama-sales-meme.png)
 
 ## Features
