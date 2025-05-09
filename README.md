@@ -1,10 +1,10 @@
-# B2B Sales AI Agent - SynapseSales Optimizer
+# B2B Sales AI Agent - Sales Workflow Optimizer
 
 An AI-powered B2B sales assistant that analyzes customer calls, extracts key insights, and automates follow-up actions to accelerate deal cycles.
 
 (Following Works in progress)
 - Deployment
-- Modules in python
+- Modules in Python
 
 
 ![image](https://www-cms.pipedriveassets.com/futurama-sales-meme.png)
